@@ -1,5 +1,4 @@
 #!/bin/bash
-# See https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db
 set -o errexit
 
 rm -rf public
@@ -18,4 +17,4 @@ git init
 git checkout -b gh-pages
 git add .
 git commit -m "Deploy to Github Pages"
-git push --force --set-upstream "https://${GITHUB_TOKEN}@$github.com/${GITHUB_REPO}.git" gh-pages
+git push --force --set-upstream "https://${GITHUB_TOKEN}@github.com/${GITHUB_REPO}.git" gh-pages
