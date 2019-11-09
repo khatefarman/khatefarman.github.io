@@ -1,0 +1,22 @@
+body { direction:rtl;}
+p.text-center.text-capitalize{
+    padding-top: 3%;
+    font-family: Sahel !important;
+    font-weight: 800;
+}
+a.navbar-brand {
+    font-family: Sahel;
+}
+h2 {
+
+    font-family: Sahel !important;
+    font-weight: 800;
+}
+.hero_container {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+a.btn.btn-default{
+    font-family: Vazir;
+    font-weight: 400;
+}
