@@ -18,4 +18,4 @@ git init
 git checkout -b gh-pages
 git add .
 git commit -m "Deploy to Github Pages"
-git push --force --quiet --set-upstream "https://${GITHUB_TOKEN}@$github.com/${GITHUB_REPO}.git"
+git push --force --set-upstream "https://${GITHUB_TOKEN}@$github.com/${GITHUB_REPO}.git"
