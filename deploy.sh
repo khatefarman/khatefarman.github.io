@@ -1,15 +1,20 @@
 #!/bin/bash
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+# See https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db
+set -o errexit
+
+rm -rf public
+mkdir public
+
+# config
+git config --global user.email "nobody@nobody.org"
+git config --global user.name "Travis CI"
+
+# build (CHANGE THIS)
+hugo
+
+# deploy
 cd public
-if [ -n "$GITHUB_AUTH_SECRET" ]
-then
-    touch ~/.git-credentials
-    chmod 0600 ~/.git-credentials
-    echo $GITHUB_AUTH_SECRET > ~/.git-credentials
-    git config credential.helper store
-    git config user.email "khatefarman-deploy-bot@users.noreply.github.com"
-    git config user.name "khatefarman-deploy-bot"
-fi
+git init
 git add .
-git commit -m "Rebuild site"
-git push --force origin gh-pages
+git commit -m "Deploy to Github Pages"
+git push --force --quiet "https://${GITHUB_TOKEN}@$github.com/${GITHUB_REPO}.git" master:gh-pages > /dev/null 2>&1#!/bin/bash

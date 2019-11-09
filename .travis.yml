@@ -3,10 +3,15 @@ install:
   - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_0.59.1_Linux-64bit.deb
   - sudo dpkg -i hugo_0.59.1_Linux-64bit.deb
 script:
-  - hugo
-deploy:
-  - provider: script
-    script: ./deploy.sh
-    skip_cleanup: true
-    on:
-      branch: master
+  - ./deploy.sh
+env:
+  global:
+    - GITHUB_REPO: "khatefarman/khatefarman.github.io"
+    - secure: "kcnVPAgcjlahfxzeFhZWAqhQg4lrAbYttP7jW3givoBqTXeuEn6FaCUEwdLP5hMy8Ohzez27nlq0GCSFULPDr8++R9WoKfKuMl0+1ZJFnKe1wb+CreehOgz+v8EYqg+uxq91Adaps6oTKiYj4KSOXI7vRwB2pH1ghhxBVFgWCXEQUp5kBFGaKqAROl/wTm/PzJEu79h+w4rWMfursb7msZLettpVnKQe1FBGiVs/0+/al4V9FA3b/IFAcMk86eB4WYZFJFUBrpLqjm0pQt9JlE1siMrT9/0vjnGpaup0WXspkp4HHvFN/AWW7fel5CBUgvDb9yizKsFLWtWk+1Ri9h4A8lsIcA56REw5FSTOCvur+xsTOMUqptxRnxTS9y+hUwhbwHvs4yy56JR74dZQtX1gHbEi+R9dcpat5RSFc3D2caqV8ETGJ3I3AFvza7VtyHhyz0+d0JaGbwdxwFG/ePyX7xbU8s8MKHT9pHKaUH+/Cwg2mSxt78AMyPgV/X5PCZjSoUXWBlceSZAbYbqNE241ChpBvlNJSAMMOLOQTcvgWVcOfq7SBttozbVk3TAJOU4szRgXwVMPijxwJPkNfAfPf1UEivGa5+oTcPhDqV5xha3ciOldH0CC+SihGzg1DA/o9YLDqmrQQG0t8oDzfSGlXElDZBf0fXuwLSx2Mug="
+
+      #deploy:
+      #  - provider: script
+      #    script: ./deploy.sh
+      #    skip_cleanup: true
+      #    on:
+      #      branch: master
