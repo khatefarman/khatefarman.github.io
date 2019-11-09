@@ -8,7 +8,7 @@ paginate = "9"
 
 
 [permalinks]
-	# page = "/:filename/"
+#	# page = "/:filename/"
 	about = "/:filename/"
 	episode = "/:filename/"
 
