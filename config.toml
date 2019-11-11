@@ -81,7 +81,7 @@ twitter_handle = "https://twitter.com/khatefarman"
 description = " رادیو خط‌فرمان پادکستی گفت‌وگو محور با موضوعیت دواپس، زیرساخت‌های ابری، لینوکس و توسعه نرم‌افزار بوده که تلاش می‌کند هر دوهفته افراد خبره این حوزه‌ها در کنار هم جمع شده و در مورد موضوعی از پیش تعیین شده بحث کنند. "
 #media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
 media_prefix = "http://localhost:1313/"
-disqusShortname = ""
+disqusShortname = "khatefarman"
   [params.feed]
     copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The best podcast ever" #no markdown or HTML
