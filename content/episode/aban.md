@@ -11,6 +11,10 @@ date = "2018-09-25T04:10:01-05:00"
 sponsors = [
   "bluthcompany",
 ]
+hosts = [
+  "hossein",
+  "amir",
+]
 explicit = "no"
 truncate = ""
 author = "Matt"

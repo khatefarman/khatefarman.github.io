@@ -76,7 +76,7 @@
     <div class="col-lg-4">
     <div class = "row">
       <div class="col">
-        <h3>Episodes Hosted By {{ .Title }}</h3>
+        <h3 style="line-height: 1.5em;">اپیزودهایی که {{ .Title }} در آن شرکت داشته</h3>
         <div class="list-group guest_episode_list">
             {{ $.Scratch.Set "host-name" .File.BaseFileName }}
             {{ range $page := where $.Site.Pages "Type" "episode" }}

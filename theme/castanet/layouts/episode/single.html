@@ -263,6 +263,7 @@
 <!-- begin sponsor section -->
 {{- with .Params.sponsors -}}
   <hr />
+  <h3> اسپانسر این قسمت</h3>
 {{- end -}}
 {{ range $sponsor :=.Params.sponsors }}
   {{ if isset $.Site.Data.sponsors $sponsor }}

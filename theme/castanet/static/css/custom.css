@@ -26,11 +26,7 @@ a.nav-link, a.dropdown-item{
     font-weight: 600;
 
 }
-p {
-    font-family: Estedad;
-    font-weight: 400;
 
-}
 small {
     text-decoration: underline;
     font-family: Sahel;
@@ -46,7 +42,7 @@ small {
     transform: scale(-1, 1);
 
 }
-.col p {
+.col p , .col, p{
     text-align: justify;
     line-height: 2em;
     font-family: Estedad;
