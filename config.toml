@@ -50,12 +50,12 @@ shamsiDateFormat = "d MMM yyyy"
 [[Menu.Main]]
     name = "پادکست‌ها"
     identifier = "podcasts"
-    url = "/books"
+    url = "/podcasts"
     parent = "resources"
 [[Menu.Main]]
     name = "مقالات"
     identifier = "articles"
-    url = "/books"
+    url = "/articles"
     parent = "resources"
 
 [params]
