@@ -28,7 +28,7 @@ images = [
 ]
 youtube = ""
 Description = "سلام. سلام صد تا سلام. "
-draft = true
+draft = false
 news_keywords = [
 ]
 title = "ssdsشماره اول"

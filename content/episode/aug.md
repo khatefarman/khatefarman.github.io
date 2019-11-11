@@ -23,7 +23,7 @@ images = [
 aliases = [
   "/11",
 ]
-title = "August Is Hot One"
+title = "August Is Hot Oaaaaaaaaaaaaaaaaaaane"
 news_keywords = [
 ]
 podcast_file = "audio/1.flac"
