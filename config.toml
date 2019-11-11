@@ -1,4 +1,4 @@
-#baseurl = "http://sample-castanet.netlify.com/mysite/"
+baseurl = "https://khatefarman.github.io/"
 languageCode = "fa-ir"
 title = "رادیو خط فرمان"
 theme = "castanet"
