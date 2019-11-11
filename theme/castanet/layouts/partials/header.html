@@ -76,6 +76,21 @@
             <a class = "social-links" href="https://gitlab.com/{{ .Site.Params.social.gitlab }}"><i class="fab fa-gitlab fa-2x"></i></a>
           </li>
         {{ end }}
+        {{ if (isset .Site.Params.social "medium" ) }}
+          <li>
+            <a class = "social-links" href="https://gitlab.com/{{ .Site.Params.social.medium }}"><i class="fab fa-medium fa-2x"></i></a>
+          </li>
+        {{ end }}
+        {{ if (isset .Site.Params.social "dev.to" ) }}
+          <li>
+            <a class = "social-links" href="https://gitlab.com/{{ .Site.Params.social.gitlab }}"><i class="fab fa-gitlab fa-2x"></i></a>
+          </li>
+        {{ end }}
+        {{ if (isset .Site.Params.social "telegram" ) }}
+          <li>
+            <a class = "social-links" href="https://t.me/{{ .Site.Params.social.telegram }}"><i class="fab fa-telegram fa-2x"></i></a>
+          </li>
+        {{ end }}
       </ul>
   </div>
   </div>

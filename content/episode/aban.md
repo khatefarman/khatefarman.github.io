@@ -1,25 +1,40 @@
 +++
-Description = "سلام. سلام صد تا سلام. "
-aliases = ["/13"]
-author = "Matt"
-categories = []
-date = "2018-09-25T04:10:01-05:00"
-episode = "13"
-episode_image = "img/episode/sept.jpg"
-explicit = "no"
-guests = ["jsmith", "ccooper"]
-sponsors = ["bluthcompany"]
-images = ["img/episode/default-social.jpg"]
-news_keywords = []
+tags = [
+]
+aliases = [
+  "/13",
+]
+categories = [
+]
 podcast_duration = "1:28:22"
-podcast_file = "audio/1.flac"
-podcast_bytes = "1234567892222"
-tags = []
-title = "شماره اول"
-youtube = ""
+date = "2018-09-25T04:10:01-05:00"
+sponsors = [
+  "bluthcompany",
+]
+explicit = "no"
 truncate = ""
+author = "Matt"
+images = [
+  "img/episode/default-social.jpg",
+]
+youtube = ""
+Description = "سلام. سلام صد تا سلام. "
+draft = true
+news_keywords = [
+]
+title = "شماره اول"
+shamsiDate = "۳ مهر ۱۳۹۷"
+podcast_file = "audio/1.flac"
+episode_image = "img/episode/sept.jpg"
+guests = [
+  "jsmith",
+  "ccooper",
+]
+podcast_bytes = "1234567892222"
+episode = "13"
 
 +++
+
 زسشیسشززشززسشزسشززس
 Graphical user interface influencer value proposition startup hackathon iPad analytics gen-z entrepreneur release traction product management long tail. Buzz business-to-consumer android learning curve innovator seed money iteration buyer startup. Holy grail graphical user interface responsive web design lean startup bandwidth strategy release innovator low hanging fruit non-disclosure agreement. Strategy handshake iPhone interaction design early adopters. Low hanging fruit crowdfunding vesting period. Low hanging fruit social proof series A financing product management founders bootstrapping ecosystem buyer supply chain hackathon direct mailing churn rate client. Scrum project direct mailing ecosystem monetization innovator. Partner network gen-z conversion pivot iPhone infographic growth hacking business plan facebook alpha marketing beta technology. Focus crowdsource venture strategy user experience. Lean startup disruptive user experience stealth interaction design monetization client long tail virality seed round direct mailing hypotheses technology burn rate.
 

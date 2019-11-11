@@ -1,14 +1,18 @@
 +++
-title = "Matt Stratton"
-Thumbnail = "img/guest/mstratton.jpg"
-Linkedin = "mattstratton"
-GitHub = "mattstratton"
+GitHub = "numb95"
+Thumbnail = "img/host/hossein.jpg"
+Facebook = ""
+date = "2016-12-08T20:55:58-06:00"
+shamsiDate = "۱۸ آذر ۱۳۹۵"
+Title = "حسین فرمانی"
 Pronouns = ""
-Facebook = "matt.stratton"
-date = "2017-04-27T13:53:32-05:00"
-Twitter = "mattstratton"
-Type = "guest"
-Website = "https://www.mattstratton.com"
+Twitter = "goodarzi_ah"
+Type = "host"
+
+Website = "http://www.goodarzi.net"
+Linkedin = ""
+YouTube = ""
+Instagram = "mattstratton"
 
 +++
 

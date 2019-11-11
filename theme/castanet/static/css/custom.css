@@ -2,10 +2,11 @@ body { direction:rtl;}
 p.text-center.text-capitalize{
     padding-top: 3%;
     font-family: Sahel !important;
-    font-weight: 800;
+    font-weight: 700;
 }
 a.navbar-brand {
     font-family: Sahel;
+    font-weight: 800;
 }
 h2 {
 
@@ -16,7 +17,36 @@ h2 {
     padding-right: 20px;
     padding-left: 20px;
 }
-a.btn.btn-default{
-    font-family: Vazir;
+a.btn.btn-default {
+    font-family: Sahel;
+    font-weight: 500;
+}
+a.nav-link{
+    font-family: Sahel !important;
+    font-weight: 600;
+
+}
+p {
+    font-family: Estedad;
     font-weight: 400;
+
+}
+small {
+    text-decoration: underline;
+    font-family: Sahel;
+    font-weight: 400;
+}
+
+.audiojs .play{
+
+    -moz-transform: scale(-1, 1);
+    -webkit-transform: scale(-1, 1);
+    -o-transform: scale(-1, 1);
+    -ms-transform: scale(-1, 1);
+    transform: scale(-1, 1);
+
+}
+.col p {
+    text-align: justify;
+    line-height: 2em;
 }

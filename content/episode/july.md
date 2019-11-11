@@ -1,21 +1,33 @@
 +++
-Description = "Conversion agile development direct mailing ecosystem social proof pitch branding interaction design rockstar return on investment network effects churn rate holy grail. Early adopters iteration technology venture alpha learning curve responsive web design backing. Direct mailing backing handshake return on investment stock monetization validation branding infographic responsive web design incubator rockstar burn rate pivot. Product management seed money channels. Stealth value proposition infrastructure disruptive social media business model canvas buyer return on investment. Metrics product management analytics mass market leverage. Social media innovator rockstar. Stealth supply chain deployment advisor partner network ownership direct mailing rockstar social media crowdsource ecosystem value proposition focus. Series A financing agile development accelerator venture return on investment hackathon crowdfunding funding. Direct mailing research & development value proposition beta niche market equity backing traction."
-aliases = ["/10"]
+podcast_bytes = ""
 author = "Matt"
-categories = []
-date = "2016-07-25T04:09:54-05:00"
 episode = "10"
+images = [
+  "img/episode/default-social.jpg",
+]
 episode_image = "img/episode/july.jpg"
 explicit = "no"
-guests = ["cadams", "rcastillo", "rshaw"]
-images = ["img/episode/default-social.jpg"]
-news_keywords = []
-podcast_duration = "1:08:22"
-podcast_file = "audio/1.flac"
-podcast_bytes = ""
-tags = []
-title = "Independence For All"
+tags = [
+]
+Description = "Conversion agile development direct mailing ecosystem social proof pitch branding interaction design rockstar return on investment network effects churn rate holy grail. Early adopters iteration technology venture alpha learning curve responsive web design backing. Direct mailing backing handshake return on investment stock monetization validation branding infographic responsive web design incubator rockstar burn rate pivot. Product management seed money channels. Stealth value proposition infrastructure disruptive social media business model canvas buyer return on investment. Metrics product management analytics mass market leverage. Social media innovator rockstar. Stealth supply chain deployment advisor partner network ownership direct mailing rockstar social media crowdsource ecosystem value proposition focus. Series A financing agile development accelerator venture return on investment hackathon crowdfunding funding. Direct mailing research & development value proposition beta niche market equity backing traction."
+date = "2016-07-25T04:09:54-05:00"
+shamsiDate = "۴ مرداد ۱۳۹۵"
+news_keywords = [
+]
 youtube = ""
+aliases = [
+  "/10",
+]
+title = "Independence For All"
+podcast_file = "audio/1.flac"
+guests = [
+  "cadams",
+  "rcastillo",
+  "rshaw",
+]
+categories = [
+]
+podcast_duration = "1:08:22"
 
 +++
 
