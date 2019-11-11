@@ -48,3 +48,6 @@ small {
     font-family: Estedad;
     font-weight: 400;
 }
+audio {
+    width: 100%;
+}

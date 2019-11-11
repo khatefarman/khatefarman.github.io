@@ -46,7 +46,12 @@
     {{- with .Params.podcast_file -}}
       <div class="row">
         <div class="col-md-12 player_row">
-          <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto"/>
+          <!-- <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto"/> -->
+          <audio controls>
+              <source src="{{ $.Site.Params.media_prefix }}{{ . }}">
+
+مرورگر شما پشتیبانی نمی‌شود. لطفاً فایل پادکست را دریافت کنید.
+              </audio>
         </div>
       </div>
       <br>
@@ -62,7 +67,7 @@
    {{- end -}}
    {{- with .Params.spotify -}}
         <div class = "col-md-2 col-md-offset-1">
-            <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><i class="fas fa-spotify"></i><span class="pageitm"> اسپاتیفای </span></a>
+            <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><i class="fa fa-rss"></i><span class="pageitm"> اسپاتیفای </span></a>
         </div>
    {{- end -}}
    {{- with .Params.itunes -}}
@@ -95,7 +100,7 @@
 
   <div class="row">
     <div class="col">
-      <h2>Show Notes</h2>
+      <h2>بخوانید</h2>
       {{ .Content }}
     </div>
   </div>
