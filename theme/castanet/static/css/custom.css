@@ -42,7 +42,7 @@ small {
     transform: scale(-1, 1);
 
 }
-.col p , .col, p{
+.col p , .col, p, .col-md-6{
     text-align: justify;
     line-height: 2em;
     font-family: Estedad;

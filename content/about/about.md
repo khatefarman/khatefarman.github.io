@@ -1,10 +1,8 @@
 +++
-title = "about"
+title = "درباره پادکست"
 date = "2016-09-25T02:11:48-05:00"
-description = "about this site"
+description = "درباره پادکست رادیو خط فرمان"
 shamsiDate = "۴ مهر ۱۳۹۵"
 
 +++
 
-## I love my podcast
-You should love it too
