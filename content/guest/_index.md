@@ -1,6 +1,6 @@
 +++
-description = "guests of the show"
-title = "Guests of HugoCast"
+description = "مهمان‌های رادیو خط ‌فرمان"
+title = "مهمان‌ها"
 aliases = "/guests"
 shamsiDate = "۴ مهر ۱۳۹۵"
 date = "2016-09-25T02:11:48-05:00"
