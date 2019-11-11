@@ -49,4 +49,6 @@ small {
 .col p {
     text-align: justify;
     line-height: 2em;
+    font-family: Estedad;
+    font-weight: 400;
 }
