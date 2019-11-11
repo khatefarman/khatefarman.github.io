@@ -23,6 +23,8 @@ images = [
 aliases = [
   "/11",
 ]
+draft = true
+
 title = "August Is Hot Oaaaaaaaaaaaaaaaaaaane"
 news_keywords = [
 ]

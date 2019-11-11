@@ -72,7 +72,7 @@
 {{- end -}}
 {{- with .Params.soundcloud -}}
 <div class = "col-md-2 col-md-offset-1">
-    <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><i class="fas fa-soundcloud"></i><span class="pageitm"> ساوندکلاود </span></a>
+    <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><span class="fa fa-soundcloud"></span><span class="pageitm"> ساوندکلاود </span></a>
 </div>
 {{- end -}}
 {{- with .Params.rss -}}
@@ -80,6 +80,7 @@
     <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><i class="fas fa-rss"></i><span class="pageitm"> آر‌اس‌اس </span></a>
 </div>
 {{- end -}}
+
     </div>
   <br>
   {{- with .Params.youtube -}}
@@ -102,7 +103,7 @@
   {{ with .Params.guests }}
         <div class="row">
           <div class="col">
-            <h2>Guests</h2>
+            <h2>مهمان‌ها</h2>
           </div>
         </div>
             {{ range $name := . }}

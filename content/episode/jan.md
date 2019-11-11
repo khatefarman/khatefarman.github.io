@@ -17,6 +17,8 @@ images = [
 ]
 categories = [
 ]
+draft = true
+
 aliases = [
   "/4",
 ]

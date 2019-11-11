@@ -6,6 +6,8 @@ categories = [
 ]
 news_keywords = [
 ]
+draft = true
+
 podcast_file = "audio/1.flac"
 explicit = "no"
 hosts = [
