@@ -49,12 +49,39 @@
           <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto"/>
         </div>
       </div>
+      <br>
       <div class="row">
-        <div class="col-md-11 col-md-offset-1">
-          <a href="{{ $.Site.Params.media_prefix }}{{ . }}">Direct Download</a>
+        <div class="col-md-2 col-md-offset-1">
+          <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><i class="fas fa-download"></i><span class="pageitm"> دانلود </span></a>
         </div>
-      </div>
     {{- end -}}
+    {{- with .Params.castbox -}}
+        <div class = "col-md-2 col-md-offset-1">
+            <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><i class="fas fa-podcast"></i><span class="pageitm"> کست‌باکس </span></a>
+        </div>
+   {{- end -}}
+   {{- with .Params.spotify -}}
+        <div class = "col-md-2 col-md-offset-1">
+            <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><i class="fas fa-spotify"></i><span class="pageitm"> اسپاتیفای </span></a>
+        </div>
+   {{- end -}}
+   {{- with .Params.itunes -}}
+   <div class = "col-md-2 col-md-offset-1">
+       <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><i class="fas fa-itunes"></i><span class="pageitm"> آی‌تیونز </span></a>
+   </div>
+{{- end -}}
+{{- with .Params.soundcloud -}}
+<div class = "col-md-2 col-md-offset-1">
+    <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><i class="fas fa-soundcloud"></i><span class="pageitm"> ساوندکلاود </span></a>
+</div>
+{{- end -}}
+{{- with .Params.rss -}}
+<div class = "col-md-2 col-md-offset-1">
+    <a href="{{ $.Site.Params.media_prefix }}{{ . }}"><i class="fas fa-rss"></i><span class="pageitm"> آر‌اس‌اس </span></a>
+</div>
+{{- end -}}
+    </div>
+  <br>
   {{- with .Params.youtube -}}
     <div class = "row youtube_row">
       <div class = "col">
@@ -304,24 +331,24 @@
                 <li class="page-item">
                   <a href="{{.PrevInSection.Permalink}}" class="page-link">
                     <span aria-hidden="true">&larr;</span>
-                    Previous</a>
+                    قبلی</a>
                 </li>
                 {{ else }}
                 <li class="page-item disabled">
                   <a href="#" class="page-link">
                     <span aria-hidden="true">&larr;</span>
-                    Previous</a>
+                    قبلی</a>
                 </li>
               {{ end }}
               {{ if .NextInSection }}
                 <li class="page-item">
-                  <a href="{{.NextInSection.Permalink}}" class="page-link">Next
+                  <a href="{{.NextInSection.Permalink}}" class="page-link">بعدی
                     <span aria-hidden="true">&rarr;</span>
                   </a>
                 </li>
                 {{ else }}
                 <li class="page-item disabled">
-                  <a href="#" class="page-link">Next
+                  <a href="#" class="page-link">بعدی
                     <span aria-hidden="true">&rarr;</span>
                   </a>
                 </li>

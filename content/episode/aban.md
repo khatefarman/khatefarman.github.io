@@ -15,6 +15,11 @@ hosts = [
   "hossein",
   "amir",
 ]
+castbox = "Google.com"
+itunes = "http"
+spotify = "http"
+soundcloud = "http"
+rss = "rss"
 explicit = "no"
 truncate = ""
 author = "Matt"
