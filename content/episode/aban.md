@@ -2,12 +2,12 @@
 tags = [
 ]
 aliases = [
-  "/13",
+  "/14",
 ]
 categories = [
 ]
 podcast_duration = "1:28:22"
-date = "2018-09-25T04:10:01-05:00"
+date = "2019-09-25T04:10:01-05:00"
 sponsors = [
   "bluthcompany",
 ]
@@ -31,7 +31,7 @@ Description = "سلام. سلام صد تا سلام. "
 draft = true
 news_keywords = [
 ]
-title = "شماره اول"
+title = "ssdsشماره اول"
 shamsiDate = "۳ مهر ۱۳۹۷"
 podcast_file = "audio/1.flac"
 episode_image = "img/episode/sept.jpg"
