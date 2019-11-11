@@ -1,6 +1,6 @@
 +++
 GitHub = "numb95"
-Thumbnail = "img/host/hossein.jpg"
+Thumbnail = "/img/host/hossein.jpg"
 Facebook = ""
 date = "2016-12-08T20:55:58-06:00"
 shamsiDate = "۱۸ آذر ۱۳۹۵"

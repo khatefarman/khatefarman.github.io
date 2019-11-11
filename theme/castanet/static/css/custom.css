@@ -21,7 +21,7 @@ a.btn.btn-default {
     font-family: Sahel;
     font-weight: 500;
 }
-a.nav-link{
+a.nav-link, a.dropdown-item{
     font-family: Sahel !important;
     font-weight: 600;
 
