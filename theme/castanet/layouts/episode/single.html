@@ -210,7 +210,7 @@
               {{- end -}}
             </div>
             <div class="col-md-8">
-              <h2><a href = "{{(printf "host/%s" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
+              <h2><a href = "{{(printf "/host/%s" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
               {{ .Content }}
               {{- with .Params.Website -}}
                 <a href="{{ . }}">
