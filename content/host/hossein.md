@@ -16,4 +16,5 @@ Github = "farmanih"
 Twitter = "Farxmani"
 +++
 
-Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey.
+حسین فرمانی هستم یک علاقه مند به دنیای باینری از نوع آزادش و تمام اتفاقاتی که توش ممکنه بیفته. فرمانی صدام میکنند ولی صمیمی تر ها با حسین راحت تر هستن.
+توی دانشگاه مهندسی کامپیوتر گرایش نرم افزار خوندم از اونجایی که از سه چهار سالگی تو خونمون کامپیوتر داشتم با کامپیوتر بزرگ شدم و تقریبا بخش عمده ای از عمرم رو با کامپیوتر سرگرم بودم و خوب علاقم به این مورد باعث شد که در تمام این سال هایی که بزرگتر میشدم این عشق پا برجا بمونه و روز به روز بیشتر و بیشتر درگیرش باشم تا امروز که با این عشق کسب درآمد و گذران زندگی میکنم.
