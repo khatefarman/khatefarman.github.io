@@ -72,7 +72,7 @@ podcast_file = "audio/1.mp3"
 episode_image = "img/assets/logo.png"
 # episode_banner	= ""
 # Size of episode
-#podcast_bytes = "1234567892222"
+#podcast_bytes = "4300000"
 # Episode number
 
 +++
