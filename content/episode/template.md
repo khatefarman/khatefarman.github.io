@@ -67,7 +67,7 @@ truncate = ""
 
 ##### Podcast info
 # Put audio files in static/audio/
-podcast_file = "audio/1.flac"
+podcast_file = "audio/1.mp3"
 # Put image files in static/img/episode
 episode_image = "img/assets/logo.png"
 # episode_banner	= ""
