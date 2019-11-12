@@ -92,6 +92,7 @@ disqusShortname = "khatefarman"
     itunes_first_sub_category = "Software How-To"
     itunes_second_sub_category = "Tech News"
     language = "fa-ir"
+    explicit = "no"
 
 # [params.podlove] # https://subscribe-button.podlove.org
 ##    subscribe_title = ""              # fallback: site title from above
