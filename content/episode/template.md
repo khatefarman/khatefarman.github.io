@@ -1,7 +1,7 @@
 +++
 ##### General info 
 # change to false when you want to publish
-draft = "true"
+draft = "false"
 title = "Title"
 # Description for better view in social networks
 Description = "description goes here "
