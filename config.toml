@@ -82,8 +82,8 @@ media_prefix = "https://khatefarman.github.io/"
 disqusShortname = "khatefarman"
   [params.feed]
     copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License" #do not use markdown in this field; it is used in the feed
-    itunes_subtitle = "دواپس" #no markdown or HTML
-    itunes_author = "Amirhossein Goodarzi" #no markdown or HTML
+    itunes_subtitle = "بحث و گفت‌ و گوی دواپس‌ها" #no markdown or HTML
+    itunes_author = "khatefarman" #no markdown or HTML
     itunes_summary = "رادیو خط‌فرمان پادکستی گفت‌وگو محور با موضوعیت دواپس، زیرساخت‌های ابری، لینوکس و توسعه نرم‌افزار بوده که تلاش می‌کند هر دوهفته افراد خبره این حوزه‌ها در کنار هم جمع شده و در مورد موضوعی از پیش تعیین شده بحث کنند. " 
     itunes_owner_name = ""
     itunes_owner_email = "amir007ag@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
