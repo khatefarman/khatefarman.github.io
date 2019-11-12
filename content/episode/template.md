@@ -69,7 +69,7 @@ truncate = ""
 # Put audio files in static/audio/
 podcast_file = "audio/1.flac"
 # Put image files in static/img/episode
-episode_image = "img/episode/sept.jpg"
+episode_image = "img/assets/logo.png"
 # episode_banner	= ""
 # Size of episode
 #podcast_bytes = "1234567892222"

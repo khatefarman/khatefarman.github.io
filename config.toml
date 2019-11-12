@@ -66,7 +66,7 @@ site_layout = "row" # or grid
 enable_jumbo = "true" # or false
 # The number of characters to truncate the summary on the row layout. This can be overridden per-episode as well. The default value (if not set) is 600 characters.	
 # truncate = "100" 
-# about_logo = "/img/hugocast.png"
+about_logo = "img/assets/logo.png"
 copyright_notice = "This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)"
 # github_repo = "https://github.com"
 # medium_article = "https://medium.com"
