@@ -51,3 +51,6 @@ small {
 audio {
     width: 100%;
 }
+.col h1 {
+    padding-top: 3%;
+}

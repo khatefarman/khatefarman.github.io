@@ -13,6 +13,7 @@ shamsiDate = "۲۰ خرداد ۱۳۹۶"
 Type = "guest"
 YouTube = ""
 Linkedin = "dolore"
+Aka = ["jsmith", "jsmith2"]
 
 +++
 

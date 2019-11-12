@@ -5,6 +5,7 @@ theme = "castanet"
 googleAnalytics = ""
 themesdir = "theme"
 paginate = "9"
+# Hoor date format
 shamsiDateFormat = "d MMM yyyy"
 
 
@@ -14,9 +15,7 @@ shamsiDateFormat = "d MMM yyyy"
 	episode = "/:filename/"
 
 
-# The theme supports menus with up to one submenu per menu item
-# The menu name must be "Main"
-# The menus are sorted based upon their identifier
+# Menu section
 [[Menu.Main]]
     name = "درباره پادکست"
     identifier = "about"
@@ -61,26 +60,25 @@ shamsiDateFormat = "d MMM yyyy"
 [params]
 mainSections = ["episode"]
 site_theme = "grey"
-# site_layout = "grid"
-site_layout = "row"
-enable_jumbo = "true"
-#enable_jumbo = "false"
-# truncate = "100"
+favicon = 'img/favicon.ico'
+site_layout = "row" # or grid
+# the section in top place with images and name of the hosts
+enable_jumbo = "true" # or false
+# The number of characters to truncate the summary on the row layout. This can be overridden per-episode as well. The default value (if not set) is 600 characters.	
+# truncate = "100" 
 # about_logo = "/img/hugocast.png"
 copyright_notice = "This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)"
-#copyright_notice = "saasasasa"
-github_repo = "https://github.com"
-medium_article = "https://medium.com"
-itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
+# github_repo = "https://github.com"
+# medium_article = "https://medium.com"
+itunes_subscribe = "http://itunes.apple.com/us/"
 spotify_subscribe = "https://open.spotify.com/show/..."
 castbox_subscribe = "itunes_subscribe = "
-#google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
+#google_play_subscribe = "https://goo.gl/app/"
 soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 twitter_handle = "https://twitter.com/khatefarman"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = " رادیو خط‌فرمان پادکستی گفت‌وگو محور با موضوعیت دواپس، زیرساخت‌های ابری، لینوکس و توسعه نرم‌افزار بوده که تلاش می‌کند هر دوهفته افراد خبره این حوزه‌ها در کنار هم جمع شده و در مورد موضوعی از پیش تعیین شده بحث کنند. "
-#media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
-media_prefix = "http://localhost:1313/"
+media_prefix = "https://khatefarman.github.io/"
 disqusShortname = "khatefarman"
   [params.feed]
     copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License" #do not use markdown in this field; it is used in the feed
@@ -115,19 +113,19 @@ disqusShortname = "khatefarman"
 #    facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
     twitter = "khatefarman"
     twitter_domain = "khatefarman.github.io" # This domain shows in twitter cards as "View on `twitter_domain`"
-#    googleplus = "ArrestedDevOps"
-#    pinterest = "nozzleio"
-#    instagram = "nozzleio"
-#    youtube = "arresteddevops"
-#   linkedin = "mattstratton"
+#    googleplus = "-"
+#    pinterest = "-"
+#    instagram = "-"
+#    youtube = "-"
+#   linkedin = "-"
     medium = "khatefarman"
     telegram = "khatefarman"
   [params.authors]
-    [params.authors.Matt]
+    [params.authors.behrooz]
       name	= "بهروز حسن بیگی"
       thumbnail = "img/host/behrooz.jpg"
       bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
-      [params.authors.Matt.social]
+      [params.authors.behrooz.social]
         github = "mattstratton"
         facebook = "matt.stratton"
         twitter = "mattstratton"
@@ -136,26 +134,36 @@ disqusShortname = "khatefarman"
         pinterest = "mattstratton"
         instagram = "instagram"
         youtube = "mattstratton"
-    [params.authors.Trevor]
+    [params.authors.amir]
 			name = "امیرحسین گودرزی"
 			thumbnail = "img/host/amir.jpg"
 			bio = ""
-				[params.authors.Trevor.social]
-					twitter = "trevorghess"
-    [params.authors.Bridget]
+				[params.authors.amir.social]
+          github = "numb95"
+          twitter = "goodarzi_ah"
+          linkedin = "amirhosseingoodarzi"
+          homepage = "https://goodarzi.net"
+          instagram = "farxmani"    
+    [params.authors.hossein]
       name = "حسین فرمانی"
       thumbnail = "img/host/hossein.jpg"
-      bio = ""
-      [params.authors.Bridget.social]
-        twitter = "bridgetkromhout"
+      bio = "حسین فرمانی هستم یک علاقه مند به دنیای باینری از نوع آزادش و تمام اتفاقاتی که توش ممکنه بیفته. فرمانی صدام میکنند ولی صمیمی تر ها با حسین راحت تر هستن. توی دانشگاه مهندسی کامپیوتر گرایش نرم افزار خوندم از اونجایی که از سه چهار سالگی تو خونمون کامپیوتر داشتم با کامپیوتر بزرگ شدم و تقریبا بخش عمده ای از عمرم رو با کامپیوتر سرگرم بودم و خوب علاقم به این مورد باعث شد که در تمام این سال هایی که بزرگتر میشدم این عشق پا برجا بمونه و روز به روز بیشتر و بیشتر درگیرش باشم تا امروز که با این عشق کسب درآمد و گذران زندگی میکنم"
+      [params.authors.hossein.social]
+        github = "farmanih"
+        twitter = "Farxmani"
+        linkedin = "farmanih"
+        homepage = "https://farmanih.ir"
+        instagram = "farxmani"
 
-    [params.links]
-      [params.links.ado]
-        name = "Arrested DevOps"
-        url = "https://www.arresteddevops.com"
-      [params.links.ffs]
-        name = "Food Fight Show"
-        url = "https://foodfightshow.org"
-      [params.links.sdt]
-        name = "Software Defined Talk"
-        url = "https://cote.io/podcasts/sdt/"
+#    [params.links]
+#      [params.links.ado]
+#        name = "Arrested DevOps"
+#        url = "https://www.arresteddevops.com"
+#     [params.links.ffs]
+#        name = "Food Fight Show"
+#        url = "https://foodfightshow.org"
+#     [params.links.sdt]
+#        name = "Software Defined Talk"
+#        url = "https://cote.io/podcasts/sdt/"
+
+
