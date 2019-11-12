@@ -71,10 +71,10 @@ copyright_notice = "This work is licensed under a [Creative Commons Attribution-
 # github_repo = "https://github.com"
 # medium_article = "https://medium.com"
 itunes_subscribe = "http://itunes.apple.com/us/"
-spotify_subscribe = "https://open.spotify.com/show/..."
-castbox_subscribe = "itunes_subscribe = "
+spotify_subscribe = "https://open.spotify.com/show/0mioSMTMrb6BIwjSJ16YXc"
+castbox_subscribe = "https://castbox.fm/channel/id2454096"
 #google_play_subscribe = "https://goo.gl/app/"
-soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+soundcloud_subscribe = "https://soundcloud.com/khatefarman"
 twitter_handle = "https://twitter.com/khatefarman"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = " رادیو خط‌فرمان پادکستی گفت‌وگو محور با موضوعیت دواپس، زیرساخت‌های ابری، لینوکس و توسعه نرم‌افزار بوده که تلاش می‌کند هر دوهفته افراد خبره این حوزه‌ها در کنار هم جمع شده و در مورد موضوعی از پیش تعیین شده بحث کنند. "
