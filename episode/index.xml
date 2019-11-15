@@ -1,0 +1,67 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
+  <channel>
+    <title>رادیو خط فرمان</title>
+    <atom:link href="https://khatefarman.github.io/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://khatefarman.github.io/</link>
+    <description>رادیو خط‌فرمان پادکستی گفت‌وگو محور با موضوعیت دواپس، زیرساخت‌های ابری، لینوکس و توسعه نرم‌افزار بوده که تلاش می‌کند هر دوهفته افراد خبره این حوزه‌ها در کنار هم جمع شده و در مورد موضوعی از پیش تعیین شده بحث کنند. </description>
+    <lastBuildDate>Wed, 25 Sep 2019 04:10:01 -0500</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>fa-ir</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License</copyright>
+    <itunes:subtitle>بحث و گفت‌ و گوی دواپس‌ها</itunes:subtitle>
+    <itunes:author>khatefarman</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>khatefarman</googleplay:author>
+    <googleplay:email>amir007ag@gmail.com</googleplay:email>
+    <itunes:summary>رادیو خط‌فرمان پادکستی گفت‌وگو محور با موضوعیت دواپس، زیرساخت‌های ابری، لینوکس و توسعه نرم‌افزار بوده که تلاش می‌کند هر دوهفته افراد خبره این حوزه‌ها در کنار هم جمع شده و در مورد موضوعی از پیش تعیین شده بحث کنند. </itunes:summary>
+    <googleplay:description>رادیو خط‌فرمان پادکستی گفت‌وگو محور با موضوعیت دواپس، زیرساخت‌های ابری، لینوکس و توسعه نرم‌افزار بوده که تلاش می‌کند هر دوهفته افراد خبره این حوزه‌ها در کنار هم جمع شده و در مورد موضوعی از پیش تعیین شده بحث کنند. </googleplay:description>
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email>amir007ag@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://khatefarman.github.io/img/assets/logo.png" />
+    <googleplay:image href="https://khatefarman.github.io/img/assets/logo.png"></googleplay:image>
+    <image>
+      <url>https://khatefarman.github.io/img/assets/logo.png</url>
+      <title>رادیو خط فرمان</title>
+      <link>https://khatefarman.github.io/</link>
+    </image>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category><itunes:explicit>no</itunes:explicit>
+    <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Title</title>
+          <link>https://khatefarman.github.io/template/</link>
+          <pubDate>Wed, 25 Sep 2019 04:10:01 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://khatefarman.github.io/audio/1.mp3</guid>
+          <itunes:author>
+            
+            
+              حسین فرمانی 
+              
+                    and امیرحسین گودرزی</itunes:author>
+          
+          <itunes:episode>13</itunes:episode>
+          
+        <itunes:summary>description goes here </itunes:summary>
+        <description>description goes here </description>
+        <googleplay:description>description goes here </googleplay:description>
+        <content:encoded><![CDATA[<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>
+]]></content:encoded><itunes:image href="https://khatefarman.github.io/img/assets/logo.png"></itunes:image>
+          <googleplay:image href="https://khatefarman.github.io/img/assets/logo.png"></googleplay:image><enclosure url="https://khatefarman.github.io/audio/1.mp3"  type="audio/mpeg" /><itunes:duration>1:30:22</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item></channel>
+</rss>

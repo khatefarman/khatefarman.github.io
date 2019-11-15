@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>میزبان‌ها on رادیو خط فرمان</title>
+    <link>https://khatefarman.github.io/host/</link>
+    <description>Recent content in میزبان‌ها on رادیو خط فرمان</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir</language>
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
+    
+	<atom:link href="https://khatefarman.github.io/host/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>امیرحسین گودرزی</title>
+      <link>https://khatefarman.github.io/host/amir/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>https://khatefarman.github.io/host/amir/</guid>
+      <description>Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey.</description>
+    </item>
+    
+    <item>
+      <title>بهروز حسن‌بیگی</title>
+      <link>https://khatefarman.github.io/host/behrooz/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>https://khatefarman.github.io/host/behrooz/</guid>
+      <description>Bridget Kromhout is a Principal Cloud Developer Advocate at Microsoft. Her CS degree emphasis was in theory, but she now deals with the concrete (if &amp;ldquo;cloud&amp;rdquo; can be considered tangible). After 15 years as an operations engineer, she traded being on call for being on a plane. A frequent speaker and program committee member for tech conferences, she leads the devopsdays organization globally and the devops community at home in Minneapolis.</description>
+    </item>
+    
+    <item>
+      <title>حسین فرمانی</title>
+      <link>https://khatefarman.github.io/host/hossein/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>https://khatefarman.github.io/host/hossein/</guid>
+      <description>حسین فرمانی هستم یک علاقه مند به دنیای باینری از نوع آزادش و تمام اتفاقاتی که توش ممکنه بیفته. فرمانی صدام میکنند ولی صمیمی تر ها با حسین راحت تر هستن. توی دانشگاه مهندسی کامپیوتر گرایش نرم افزار خوندم از اونجایی که از سه چهار سالگی تو خونمون کامپیوتر داشتم با کامپیوتر بزرگ شدم و تقریبا بخش عمده ای از عمرم رو با کامپیوتر سرگرم بودم و خوب علاقم به این مورد باعث شد که در تمام این سال هایی که بزرگتر میشدم این عشق پا برجا بمونه و روز به روز بیشتر و بیشتر درگیرش باشم تا امروز که با این عشق کسب درآمد و گذران زندگی میکنم.</description>
+    </item>
+    
+  </channel>
+</rss>
